@@ -7,7 +7,6 @@ using namespace std;
 int main()
 {
     int n, x, i, gasit, a[50];
-    cout << "Dati numarul de elemente ale tabloului:";
     cin >> n;
     cout << "Dati numarul de cautat:";
     cin >> x;

@@ -1,0 +1,2 @@
+# Cautare_secventiala
+ 
